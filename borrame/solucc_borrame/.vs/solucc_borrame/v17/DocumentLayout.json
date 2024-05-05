@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\borrame\\solucc_borrame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62BD2D75-B104-42F2-8B4E-DB42706665F7}|Logica\\Logica.csproj|i:\\workspace_ani\\utn_programacion\\program_2_2024_c_01\\borrame\\solucc_borrame\\logica\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BD2D75-B104-42F2-8B4E-DB42706665F7}|Logica\\Logica.csproj|solutionrelative:logica\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BD2D75-B104-42F2-8B4E-DB42706665F7}|Logica\\Logica.csproj|i:\\workspace_ani\\utn_programacion\\program_2_2024_c_01\\borrame\\solucc_borrame\\logica\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BD2D75-B104-42F2-8B4E-DB42706665F7}|Logica\\Logica.csproj|solutionrelative:logica\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C2FFC5-4555-4012-83C8-D69155D3EBB9}|ejercicio\\ejercicio.csproj|i:\\workspace_ani\\utn_programacion\\program_2_2024_c_01\\borrame\\solucc_borrame\\ejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C2FFC5-4555-4012-83C8-D69155D3EBB9}|ejercicio\\ejercicio.csproj|solutionrelative:ejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\borrame\\solucc_borrame\\Logica\\Sistema.cs",
+              "RelativeDocumentMoniker": "Logica\\Sistema.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\borrame\\solucc_borrame\\Logica\\Sistema.cs",
+              "RelativeToolTip": "Logica\\Sistema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:16:27.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\borrame\\solucc_borrame\\Logica\\Usuario.cs",
+              "RelativeDocumentMoniker": "Logica\\Usuario.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\borrame\\solucc_borrame\\Logica\\Usuario.cs",
+              "RelativeToolTip": "Logica\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T23:28:41.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\borrame\\solucc_borrame\\ejercicio\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio\\Program.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\borrame\\solucc_borrame\\ejercicio\\Program.cs",
+              "RelativeToolTip": "ejercicio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T23:26:52.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

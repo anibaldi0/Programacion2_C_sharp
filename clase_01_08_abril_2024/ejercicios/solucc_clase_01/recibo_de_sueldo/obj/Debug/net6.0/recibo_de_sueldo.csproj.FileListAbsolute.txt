@@ -1,0 +1,14 @@
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\recibo_de_sueldo\bin\Debug\net6.0\recibo_de_sueldo.exe
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\recibo_de_sueldo\bin\Debug\net6.0\recibo_de_sueldo.deps.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\recibo_de_sueldo\bin\Debug\net6.0\recibo_de_sueldo.runtimeconfig.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\recibo_de_sueldo\bin\Debug\net6.0\recibo_de_sueldo.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\recibo_de_sueldo\bin\Debug\net6.0\recibo_de_sueldo.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\recibo_de_sueldo\obj\Debug\net6.0\recibo_de_sueldo.GeneratedMSBuildEditorConfig.editorconfig
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\recibo_de_sueldo\obj\Debug\net6.0\recibo_de_sueldo.AssemblyInfoInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\recibo_de_sueldo\obj\Debug\net6.0\recibo_de_sueldo.AssemblyInfo.cs
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\recibo_de_sueldo\obj\Debug\net6.0\recibo_de_sueldo.csproj.CoreCompileInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\recibo_de_sueldo\obj\Debug\net6.0\recibo_de_sueldo.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\recibo_de_sueldo\obj\Debug\net6.0\refint\recibo_de_sueldo.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\recibo_de_sueldo\obj\Debug\net6.0\recibo_de_sueldo.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\recibo_de_sueldo\obj\Debug\net6.0\recibo_de_sueldo.genruntimeconfig.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\recibo_de_sueldo\obj\Debug\net6.0\ref\recibo_de_sueldo.dll

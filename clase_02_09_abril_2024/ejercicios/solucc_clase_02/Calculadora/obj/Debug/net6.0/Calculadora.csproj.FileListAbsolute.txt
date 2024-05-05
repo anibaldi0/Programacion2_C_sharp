@@ -1,0 +1,14 @@
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\Calculadora\bin\Debug\net6.0\Calculadora.exe
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\Calculadora\bin\Debug\net6.0\Calculadora.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\Calculadora\obj\Debug\net6.0\Calculadora.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll

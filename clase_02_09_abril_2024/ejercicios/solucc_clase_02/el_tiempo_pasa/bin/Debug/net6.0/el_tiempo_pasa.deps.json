@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "el_tiempo_pasa/1.0.0": {
+        "runtime": {
+          "el_tiempo_pasa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "el_tiempo_pasa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

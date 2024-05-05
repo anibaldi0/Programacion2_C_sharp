@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\workspace_ani\\UTN_Programacion_2023\\Program_2_2024_C_01\\dotnet\\program_2_2024\\ejercicios\\ejercicios_I00\\ej_I01_necesito_un_prestamo\\ej_I01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0B7B7A-6CB2-4215-B7F1-7B430940E977}|ej_I03\\ej_I03.csproj|i:\\workspace_ani\\utn_programacion_2023\\program_2_2024_c_01\\dotnet\\program_2_2024\\ejercicios\\ejercicios_i00\\ej_i01_necesito_un_prestamo\\ej_i01\\ej_i03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0B7B7A-6CB2-4215-B7F1-7B430940E977}|ej_I03\\ej_I03.csproj|solutionrelative:ej_i03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFACF4D-2C24-45B0-B60E-CBDB89EA22B2}|ej_I02\\ej_I02.csproj|i:\\workspace_ani\\utn_programacion_2023\\program_2_2024_c_01\\dotnet\\program_2_2024\\ejercicios\\ejercicios_i00\\ej_i01_necesito_un_prestamo\\ej_i01\\ej_i02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFACF4D-2C24-45B0-B60E-CBDB89EA22B2}|ej_I02\\ej_I02.csproj|solutionrelative:ej_i02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BB12CD-3B10-48CF-A41C-C4C2C919C044}|ej_I01\\ej_I01.csproj|i:\\workspace_ani\\utn_programacion_2023\\program_2_2024_c_01\\dotnet\\program_2_2024\\ejercicios\\ejercicios_i00\\ej_i01_necesito_un_prestamo\\ej_i01\\ej_i01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BB12CD-3B10-48CF-A41C-C4C2C919C044}|ej_I01\\ej_I01.csproj|solutionrelative:ej_i01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion_2023\\Program_2_2024_C_01\\dotnet\\program_2_2024\\ejercicios\\ejercicios_I00\\ej_I01_necesito_un_prestamo\\ej_I01\\ej_I03\\Program.cs",
+              "RelativeDocumentMoniker": "ej_I03\\Program.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion_2023\\Program_2_2024_C_01\\dotnet\\program_2_2024\\ejercicios\\ejercicios_I00\\ej_I01_necesito_un_prestamo\\ej_I01\\ej_I03\\Program.cs",
+              "RelativeToolTip": "ej_I03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:11:43.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion_2023\\Program_2_2024_C_01\\dotnet\\program_2_2024\\ejercicios\\ejercicios_I00\\ej_I01_necesito_un_prestamo\\ej_I01\\ej_I02\\Program.cs",
+              "RelativeDocumentMoniker": "ej_I02\\Program.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion_2023\\Program_2_2024_C_01\\dotnet\\program_2_2024\\ejercicios\\ejercicios_I00\\ej_I01_necesito_un_prestamo\\ej_I01\\ej_I02\\Program.cs",
+              "RelativeToolTip": "ej_I02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:11:17.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion_2023\\Program_2_2024_C_01\\dotnet\\program_2_2024\\ejercicios\\ejercicios_I00\\ej_I01_necesito_un_prestamo\\ej_I01\\ej_I01\\Program.cs",
+              "RelativeDocumentMoniker": "ej_I01\\Program.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion_2023\\Program_2_2024_C_01\\dotnet\\program_2_2024\\ejercicios\\ejercicios_I00\\ej_I01_necesito_un_prestamo\\ej_I01\\ej_I01\\Program.cs",
+              "RelativeToolTip": "ej_I01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:10:33.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

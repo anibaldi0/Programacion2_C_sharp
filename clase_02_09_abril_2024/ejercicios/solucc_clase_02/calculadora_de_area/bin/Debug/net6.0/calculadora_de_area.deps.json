@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "calculadora_de_area/1.0.0": {
+        "runtime": {
+          "calculadora_de_area.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculadora_de_area/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

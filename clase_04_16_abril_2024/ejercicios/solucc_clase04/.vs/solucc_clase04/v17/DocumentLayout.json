@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\clase_04_16_abril_2024\\ejercicios\\solucc_clase04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC992190-702E-4E36-A69C-1E3D84808A58}|BibliotecaPersonas\\BibliotecaPersonas.csproj|i:\\workspace_ani\\utn_programacion\\program_2_2024_c_01\\clase_04_16_abril_2024\\ejercicios\\solucc_clase04\\bibliotecapersonas\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC992190-702E-4E36-A69C-1E3D84808A58}|BibliotecaPersonas\\BibliotecaPersonas.csproj|solutionrelative:bibliotecapersonas\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA39ED1-61C2-4A54-9FB4-D1F9B09A4451}|necesito_un_prestamo\\necesito_un_prestamo.csproj|i:\\workspace_ani\\utn_programacion\\program_2_2024_c_01\\clase_04_16_abril_2024\\ejercicios\\solucc_clase04\\necesito_un_prestamo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA39ED1-61C2-4A54-9FB4-D1F9B09A4451}|necesito_un_prestamo\\necesito_un_prestamo.csproj|solutionrelative:necesito_un_prestamo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C96A7B-FCE8-4DD9-B1BC-455253CD87FB}|cuantas_primaveras_tenes\\cuantas_primaveras_tenes.csproj|i:\\workspace_ani\\utn_programacion\\program_2_2024_c_01\\clase_04_16_abril_2024\\ejercicios\\solucc_clase04\\cuantas_primaveras_tenes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C96A7B-FCE8-4DD9-B1BC-455253CD87FB}|cuantas_primaveras_tenes\\cuantas_primaveras_tenes.csproj|solutionrelative:cuantas_primaveras_tenes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personas.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\clase_04_16_abril_2024\\ejercicios\\solucc_clase04\\BibliotecaPersonas\\Personas.cs",
+              "RelativeDocumentMoniker": "BibliotecaPersonas\\Personas.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\clase_04_16_abril_2024\\ejercicios\\solucc_clase04\\BibliotecaPersonas\\Personas.cs",
+              "RelativeToolTip": "BibliotecaPersonas\\Personas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:59:05.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\clase_04_16_abril_2024\\ejercicios\\solucc_clase04\\cuantas_primaveras_tenes\\Program.cs",
+              "RelativeDocumentMoniker": "cuantas_primaveras_tenes\\Program.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\clase_04_16_abril_2024\\ejercicios\\solucc_clase04\\cuantas_primaveras_tenes\\Program.cs",
+              "RelativeToolTip": "cuantas_primaveras_tenes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T16:58:16.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\clase_04_16_abril_2024\\ejercicios\\solucc_clase04\\necesito_un_prestamo\\Program.cs",
+              "RelativeDocumentMoniker": "necesito_un_prestamo\\Program.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\clase_04_16_abril_2024\\ejercicios\\solucc_clase04\\necesito_un_prestamo\\Program.cs",
+              "RelativeToolTip": "necesito_un_prestamo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:13:05.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

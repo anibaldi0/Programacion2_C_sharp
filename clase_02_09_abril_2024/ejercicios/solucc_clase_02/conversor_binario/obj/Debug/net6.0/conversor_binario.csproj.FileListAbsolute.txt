@@ -1,0 +1,14 @@
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\conversor_binario\bin\Debug\net6.0\conversor_binario.exe
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\conversor_binario\bin\Debug\net6.0\conversor_binario.deps.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\conversor_binario\bin\Debug\net6.0\conversor_binario.runtimeconfig.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\conversor_binario\bin\Debug\net6.0\conversor_binario.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\conversor_binario\bin\Debug\net6.0\conversor_binario.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\conversor_binario\obj\Debug\net6.0\conversor_binario.GeneratedMSBuildEditorConfig.editorconfig
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\conversor_binario\obj\Debug\net6.0\conversor_binario.AssemblyInfoInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\conversor_binario\obj\Debug\net6.0\conversor_binario.AssemblyInfo.cs
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\conversor_binario\obj\Debug\net6.0\conversor_binario.csproj.CoreCompileInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\conversor_binario\obj\Debug\net6.0\conversor_binario.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\conversor_binario\obj\Debug\net6.0\refint\conversor_binario.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\conversor_binario\obj\Debug\net6.0\conversor_binario.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\conversor_binario\obj\Debug\net6.0\conversor_binario.genruntimeconfig.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\conversor_binario\obj\Debug\net6.0\ref\conversor_binario.dll

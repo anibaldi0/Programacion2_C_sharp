@@ -1,0 +1,14 @@
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\Los_primos\obj\Debug\net6.0\Los_primos.GeneratedMSBuildEditorConfig.editorconfig
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\Los_primos\obj\Debug\net6.0\Los_primos.AssemblyInfoInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\Los_primos\obj\Debug\net6.0\Los_primos.AssemblyInfo.cs
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\Los_primos\obj\Debug\net6.0\Los_primos.csproj.CoreCompileInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\Los_primos\bin\Debug\net6.0\Los_primos.exe
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\Los_primos\bin\Debug\net6.0\Los_primos.deps.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\Los_primos\bin\Debug\net6.0\Los_primos.runtimeconfig.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\Los_primos\bin\Debug\net6.0\Los_primos.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\Los_primos\bin\Debug\net6.0\Los_primos.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\Los_primos\obj\Debug\net6.0\Los_primos.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\Los_primos\obj\Debug\net6.0\refint\Los_primos.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\Los_primos\obj\Debug\net6.0\Los_primos.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\Los_primos\obj\Debug\net6.0\Los_primos.genruntimeconfig.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\Los_primos\obj\Debug\net6.0\ref\Los_primos.dll

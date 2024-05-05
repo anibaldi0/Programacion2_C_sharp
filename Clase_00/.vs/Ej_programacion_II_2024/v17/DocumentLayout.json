@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\Clase_00\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE97ACA5-8403-4550-81AE-E42BA31928D3}|Presentacion\\Presentacion.csproj|i:\\workspace_ani\\utn_programacion\\program_2_2024_c_01\\clase_00\\presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE97ACA5-8403-4550-81AE-E42BA31928D3}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BE9D40-05B7-443C-9D8B-A8A1B2F4576E}|Num_max_y_promedio\\Num_max_y_promedio.csproj|i:\\workspace_ani\\utn_programacion\\program_2_2024_c_01\\clase_00\\num_max_y_promedio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BE9D40-05B7-443C-9D8B-A8A1B2F4576E}|Num_max_y_promedio\\Num_max_y_promedio.csproj|solutionrelative:num_max_y_promedio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728E11FE-53AB-4B4C-9D0D-145C578CFF26}|Error_al_cubo\\Error_al_cubo.csproj|i:\\workspace_ani\\utn_programacion\\program_2_2024_c_01\\clase_00\\error_al_cubo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728E11FE-53AB-4B4C-9D0D-145C578CFF26}|Error_al_cubo\\Error_al_cubo.csproj|solutionrelative:error_al_cubo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C3F57D-7696-4AB5-B4A2-FFBF2FBC0603}|Los_primos\\Los_primos.csproj|i:\\workspace_ani\\utn_programacion\\program_2_2024_c_01\\clase_00\\los_primos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C3F57D-7696-4AB5-B4A2-FFBF2FBC0603}|Los_primos\\Los_primos.csproj|solutionrelative:los_primos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\Clase_00\\Los_primos\\Program.cs",
+              "RelativeDocumentMoniker": "Los_primos\\Program.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\Clase_00\\Los_primos\\Program.cs",
+              "RelativeToolTip": "Los_primos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T14:49:37.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\Clase_00\\Error_al_cubo\\Program.cs",
+              "RelativeDocumentMoniker": "Error_al_cubo\\Program.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\Clase_00\\Error_al_cubo\\Program.cs",
+              "RelativeToolTip": "Error_al_cubo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T14:49:37.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\Clase_00\\Num_max_y_promedio\\Program.cs",
+              "RelativeDocumentMoniker": "Num_max_y_promedio\\Program.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\Clase_00\\Num_max_y_promedio\\Program.cs",
+              "RelativeToolTip": "Num_max_y_promedio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T14:49:37.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\Clase_00\\Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Program.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\Clase_00\\Presentacion\\Program.cs",
+              "RelativeToolTip": "Presentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T14:49:37.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

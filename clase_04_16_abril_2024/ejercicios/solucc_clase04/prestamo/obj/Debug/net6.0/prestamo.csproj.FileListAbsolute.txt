@@ -1,0 +1,11 @@
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_04_16_abril_2024\ejercicios\solucc_clase04\prestamo\bin\Debug\net6.0\prestamo.deps.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_04_16_abril_2024\ejercicios\solucc_clase04\prestamo\bin\Debug\net6.0\prestamo.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_04_16_abril_2024\ejercicios\solucc_clase04\prestamo\bin\Debug\net6.0\prestamo.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_04_16_abril_2024\ejercicios\solucc_clase04\prestamo\obj\Debug\net6.0\prestamo.GeneratedMSBuildEditorConfig.editorconfig
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_04_16_abril_2024\ejercicios\solucc_clase04\prestamo\obj\Debug\net6.0\prestamo.AssemblyInfoInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_04_16_abril_2024\ejercicios\solucc_clase04\prestamo\obj\Debug\net6.0\prestamo.AssemblyInfo.cs
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_04_16_abril_2024\ejercicios\solucc_clase04\prestamo\obj\Debug\net6.0\prestamo.csproj.CoreCompileInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_04_16_abril_2024\ejercicios\solucc_clase04\prestamo\obj\Debug\net6.0\prestamo.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_04_16_abril_2024\ejercicios\solucc_clase04\prestamo\obj\Debug\net6.0\refint\prestamo.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_04_16_abril_2024\ejercicios\solucc_clase04\prestamo\obj\Debug\net6.0\prestamo.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_04_16_abril_2024\ejercicios\solucc_clase04\prestamo\obj\Debug\net6.0\ref\prestamo.dll

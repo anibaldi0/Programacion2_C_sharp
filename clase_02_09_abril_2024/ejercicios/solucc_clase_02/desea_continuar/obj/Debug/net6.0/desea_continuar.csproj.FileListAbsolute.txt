@@ -1,0 +1,14 @@
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\desea_continuar\bin\Debug\net6.0\desea_continuar.exe
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\desea_continuar\bin\Debug\net6.0\desea_continuar.deps.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\desea_continuar\bin\Debug\net6.0\desea_continuar.runtimeconfig.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\desea_continuar\bin\Debug\net6.0\desea_continuar.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\desea_continuar\bin\Debug\net6.0\desea_continuar.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\desea_continuar\obj\Debug\net6.0\desea_continuar.GeneratedMSBuildEditorConfig.editorconfig
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\desea_continuar\obj\Debug\net6.0\desea_continuar.AssemblyInfoInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\desea_continuar\obj\Debug\net6.0\desea_continuar.AssemblyInfo.cs
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\desea_continuar\obj\Debug\net6.0\desea_continuar.csproj.CoreCompileInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\desea_continuar\obj\Debug\net6.0\desea_continuar.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\desea_continuar\obj\Debug\net6.0\refint\desea_continuar.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\desea_continuar\obj\Debug\net6.0\desea_continuar.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\desea_continuar\obj\Debug\net6.0\desea_continuar.genruntimeconfig.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\desea_continuar\obj\Debug\net6.0\ref\desea_continuar.dll

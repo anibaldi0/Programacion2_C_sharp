@@ -1,0 +1,14 @@
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\ano_bisiesto\bin\Debug\net6.0\ano_bisiesto.exe
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\ano_bisiesto\bin\Debug\net6.0\ano_bisiesto.deps.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\ano_bisiesto\bin\Debug\net6.0\ano_bisiesto.runtimeconfig.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\ano_bisiesto\bin\Debug\net6.0\ano_bisiesto.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\ano_bisiesto\bin\Debug\net6.0\ano_bisiesto.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\ano_bisiesto\obj\Debug\net6.0\ano_bisiesto.GeneratedMSBuildEditorConfig.editorconfig
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\ano_bisiesto\obj\Debug\net6.0\ano_bisiesto.AssemblyInfoInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\ano_bisiesto\obj\Debug\net6.0\ano_bisiesto.AssemblyInfo.cs
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\ano_bisiesto\obj\Debug\net6.0\ano_bisiesto.csproj.CoreCompileInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\ano_bisiesto\obj\Debug\net6.0\ano_bisiesto.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\ano_bisiesto\obj\Debug\net6.0\refint\ano_bisiesto.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\ano_bisiesto\obj\Debug\net6.0\ano_bisiesto.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\ano_bisiesto\obj\Debug\net6.0\ano_bisiesto.genruntimeconfig.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\ano_bisiesto\obj\Debug\net6.0\ref\ano_bisiesto.dll

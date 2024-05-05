@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\clase_03_15_abril_2024\\ejercicios\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13782BAC-0184-409B-B421-B2983571DC4A}|ConsoleApp1\\ConsoleApp1.csproj|i:\\workspace_ani\\utn_programacion\\program_2_2024_c_01\\clase_03_15_abril_2024\\ejercicios\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13782BAC-0184-409B-B421-B2983571DC4A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\clase_03_15_abril_2024\\ejercicios\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\clase_03_15_abril_2024\\ejercicios\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T19:40:40.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

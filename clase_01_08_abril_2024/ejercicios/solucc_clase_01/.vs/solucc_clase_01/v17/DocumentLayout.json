@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\clase_01_08_abril_2024\\ejercicios\\solucc_clase_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B30BA7E2-96A8-4F26-84DA-8B0543F97663}|trangulo_equilatero\\trangulo_equilatero.csproj|i:\\workspace_ani\\utn_programacion\\program_2_2024_c_01\\clase_01_08_abril_2024\\ejercicios\\solucc_clase_01\\trangulo_equilatero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30BA7E2-96A8-4F26-84DA-8B0543F97663}|trangulo_equilatero\\trangulo_equilatero.csproj|solutionrelative:trangulo_equilatero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E59D82-7756-4837-BD81-43B3D4268DBE}|dibujar_triangulo\\dibujar_triangulo.csproj|i:\\workspace_ani\\utn_programacion\\program_2_2024_c_01\\clase_01_08_abril_2024\\ejercicios\\solucc_clase_01\\dibujar_triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E59D82-7756-4837-BD81-43B3D4268DBE}|dibujar_triangulo\\dibujar_triangulo.csproj|solutionrelative:dibujar_triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\clase_01_08_abril_2024\\ejercicios\\solucc_clase_01\\trangulo_equilatero\\Program.cs",
+              "RelativeDocumentMoniker": "trangulo_equilatero\\Program.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\clase_01_08_abril_2024\\ejercicios\\solucc_clase_01\\trangulo_equilatero\\Program.cs",
+              "RelativeToolTip": "trangulo_equilatero\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T14:43:42.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\clase_01_08_abril_2024\\ejercicios\\solucc_clase_01\\dibujar_triangulo\\Program.cs",
+              "RelativeDocumentMoniker": "dibujar_triangulo\\Program.cs",
+              "ToolTip": "I:\\workspace_ani\\UTN_Programacion\\Program_2_2024_C_01\\clase_01_08_abril_2024\\ejercicios\\solucc_clase_01\\dibujar_triangulo\\Program.cs",
+              "RelativeToolTip": "dibujar_triangulo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T14:30:08.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

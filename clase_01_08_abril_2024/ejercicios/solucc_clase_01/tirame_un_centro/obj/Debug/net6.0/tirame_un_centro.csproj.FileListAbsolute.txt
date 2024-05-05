@@ -1,0 +1,14 @@
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\tirame_un_centro\bin\Debug\net6.0\tirame_un_centro.exe
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\tirame_un_centro\bin\Debug\net6.0\tirame_un_centro.deps.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\tirame_un_centro\bin\Debug\net6.0\tirame_un_centro.runtimeconfig.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\tirame_un_centro\bin\Debug\net6.0\tirame_un_centro.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\tirame_un_centro\bin\Debug\net6.0\tirame_un_centro.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\tirame_un_centro\obj\Debug\net6.0\tirame_un_centro.GeneratedMSBuildEditorConfig.editorconfig
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\tirame_un_centro\obj\Debug\net6.0\tirame_un_centro.AssemblyInfoInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\tirame_un_centro\obj\Debug\net6.0\tirame_un_centro.AssemblyInfo.cs
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\tirame_un_centro\obj\Debug\net6.0\tirame_un_centro.csproj.CoreCompileInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\tirame_un_centro\obj\Debug\net6.0\tirame_un_centro.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\tirame_un_centro\obj\Debug\net6.0\refint\tirame_un_centro.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\tirame_un_centro\obj\Debug\net6.0\tirame_un_centro.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\tirame_un_centro\obj\Debug\net6.0\tirame_un_centro.genruntimeconfig.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\tirame_un_centro\obj\Debug\net6.0\ref\tirame_un_centro.dll

@@ -1,0 +1,14 @@
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\dibujar_triangulo\bin\Debug\net6.0\dibujar_triangulo.exe
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\dibujar_triangulo\bin\Debug\net6.0\dibujar_triangulo.deps.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\dibujar_triangulo\bin\Debug\net6.0\dibujar_triangulo.runtimeconfig.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\dibujar_triangulo\bin\Debug\net6.0\dibujar_triangulo.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\dibujar_triangulo\bin\Debug\net6.0\dibujar_triangulo.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\dibujar_triangulo\obj\Debug\net6.0\dibujar_triangulo.GeneratedMSBuildEditorConfig.editorconfig
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\dibujar_triangulo\obj\Debug\net6.0\dibujar_triangulo.AssemblyInfoInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\dibujar_triangulo\obj\Debug\net6.0\dibujar_triangulo.AssemblyInfo.cs
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\dibujar_triangulo\obj\Debug\net6.0\dibujar_triangulo.csproj.CoreCompileInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\dibujar_triangulo\obj\Debug\net6.0\dibujar_triangulo.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\dibujar_triangulo\obj\Debug\net6.0\refint\dibujar_triangulo.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\dibujar_triangulo\obj\Debug\net6.0\dibujar_triangulo.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\dibujar_triangulo\obj\Debug\net6.0\dibujar_triangulo.genruntimeconfig.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_01_08_abril_2024\ejercicios\solucc_clase_01\dibujar_triangulo\obj\Debug\net6.0\ref\dibujar_triangulo.dll

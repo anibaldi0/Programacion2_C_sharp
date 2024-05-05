@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "error_al_cubo/1.0.0": {
+        "runtime": {
+          "error_al_cubo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "error_al_cubo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

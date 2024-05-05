@@ -1,0 +1,11 @@
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\borrame\solucc_borrame\Logica\bin\Debug\net6.0\Logica.deps.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\borrame\solucc_borrame\Logica\bin\Debug\net6.0\Logica.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\borrame\solucc_borrame\Logica\bin\Debug\net6.0\Logica.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\borrame\solucc_borrame\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\borrame\solucc_borrame\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\borrame\solucc_borrame\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\borrame\solucc_borrame\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\borrame\solucc_borrame\Logica\obj\Debug\net6.0\Logica.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\borrame\solucc_borrame\Logica\obj\Debug\net6.0\refint\Logica.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\borrame\solucc_borrame\Logica\obj\Debug\net6.0\Logica.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\borrame\solucc_borrame\Logica\obj\Debug\net6.0\ref\Logica.dll

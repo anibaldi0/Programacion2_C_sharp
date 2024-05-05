@@ -1,0 +1,14 @@
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\el_tiempo_pasa\bin\Debug\net6.0\el_tiempo_pasa.exe
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\el_tiempo_pasa\bin\Debug\net6.0\el_tiempo_pasa.deps.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\el_tiempo_pasa\bin\Debug\net6.0\el_tiempo_pasa.runtimeconfig.json
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\el_tiempo_pasa\bin\Debug\net6.0\el_tiempo_pasa.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\el_tiempo_pasa\bin\Debug\net6.0\el_tiempo_pasa.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\el_tiempo_pasa\obj\Debug\net6.0\el_tiempo_pasa.GeneratedMSBuildEditorConfig.editorconfig
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\el_tiempo_pasa\obj\Debug\net6.0\el_tiempo_pasa.AssemblyInfoInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\el_tiempo_pasa\obj\Debug\net6.0\el_tiempo_pasa.AssemblyInfo.cs
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\el_tiempo_pasa\obj\Debug\net6.0\el_tiempo_pasa.csproj.CoreCompileInputs.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\el_tiempo_pasa\obj\Debug\net6.0\el_tiempo_pasa.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\el_tiempo_pasa\obj\Debug\net6.0\refint\el_tiempo_pasa.dll
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\el_tiempo_pasa\obj\Debug\net6.0\el_tiempo_pasa.pdb
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\el_tiempo_pasa\obj\Debug\net6.0\el_tiempo_pasa.genruntimeconfig.cache
+I:\workspace_ani\UTN_Programacion\Program_2_2024_C_01\clase_02_09_abril_2024\ejercicios\solucc_clase_02\el_tiempo_pasa\obj\Debug\net6.0\ref\el_tiempo_pasa.dll

@@ -1,0 +1,14 @@
+I:\workspace_ani\UTN_Programacion_2023\Program_2_2024_primer_cuatrimestre\dotnet\programacion_2_2024\Clase_01\Presentacion\bin\Debug\net8.0\Presentacion.exe
+I:\workspace_ani\UTN_Programacion_2023\Program_2_2024_primer_cuatrimestre\dotnet\programacion_2_2024\Clase_01\Presentacion\bin\Debug\net8.0\Presentacion.deps.json
+I:\workspace_ani\UTN_Programacion_2023\Program_2_2024_primer_cuatrimestre\dotnet\programacion_2_2024\Clase_01\Presentacion\bin\Debug\net8.0\Presentacion.runtimeconfig.json
+I:\workspace_ani\UTN_Programacion_2023\Program_2_2024_primer_cuatrimestre\dotnet\programacion_2_2024\Clase_01\Presentacion\bin\Debug\net8.0\Presentacion.dll
+I:\workspace_ani\UTN_Programacion_2023\Program_2_2024_primer_cuatrimestre\dotnet\programacion_2_2024\Clase_01\Presentacion\bin\Debug\net8.0\Presentacion.pdb
+I:\workspace_ani\UTN_Programacion_2023\Program_2_2024_primer_cuatrimestre\dotnet\programacion_2_2024\Clase_01\Presentacion\obj\Debug\net8.0\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+I:\workspace_ani\UTN_Programacion_2023\Program_2_2024_primer_cuatrimestre\dotnet\programacion_2_2024\Clase_01\Presentacion\obj\Debug\net8.0\Presentacion.AssemblyInfoInputs.cache
+I:\workspace_ani\UTN_Programacion_2023\Program_2_2024_primer_cuatrimestre\dotnet\programacion_2_2024\Clase_01\Presentacion\obj\Debug\net8.0\Presentacion.AssemblyInfo.cs
+I:\workspace_ani\UTN_Programacion_2023\Program_2_2024_primer_cuatrimestre\dotnet\programacion_2_2024\Clase_01\Presentacion\obj\Debug\net8.0\Presentacion.csproj.CoreCompileInputs.cache
+I:\workspace_ani\UTN_Programacion_2023\Program_2_2024_primer_cuatrimestre\dotnet\programacion_2_2024\Clase_01\Presentacion\obj\Debug\net8.0\Presentacion.dll
+I:\workspace_ani\UTN_Programacion_2023\Program_2_2024_primer_cuatrimestre\dotnet\programacion_2_2024\Clase_01\Presentacion\obj\Debug\net8.0\refint\Presentacion.dll
+I:\workspace_ani\UTN_Programacion_2023\Program_2_2024_primer_cuatrimestre\dotnet\programacion_2_2024\Clase_01\Presentacion\obj\Debug\net8.0\Presentacion.pdb
+I:\workspace_ani\UTN_Programacion_2023\Program_2_2024_primer_cuatrimestre\dotnet\programacion_2_2024\Clase_01\Presentacion\obj\Debug\net8.0\Presentacion.genruntimeconfig.cache
+I:\workspace_ani\UTN_Programacion_2023\Program_2_2024_primer_cuatrimestre\dotnet\programacion_2_2024\Clase_01\Presentacion\obj\Debug\net8.0\ref\Presentacion.dll
